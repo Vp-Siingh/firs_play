@@ -1,0 +1,10 @@
+#create a file named directory.yml in the task folder
+- name: Create directory.yml
+  hosts: all
+  become: true
+  tasks:
+    - name: Create a directory named 'task'
+      file:
+        path: /var/directory/task
+        state: directory
+      
