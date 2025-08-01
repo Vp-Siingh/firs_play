@@ -1,0 +1,5 @@
+[hosts]
+34.88.53.163 ansible_ssh_private_key_file=/Users/vpsingh/.ssh/id_ed25519
+34.135.50.44 ansible_ssh_private_key_file=/Users/vpsingh/.ssh/id_ed25519
+34.131.131.198 ansible_ssh_private_key_file=/Users/vpsingh/.ssh/id_ed25519
+34.29.188.230 ansible_ssh_private_key_file=/Users/vpsingh/.ssh/id_ed25519
